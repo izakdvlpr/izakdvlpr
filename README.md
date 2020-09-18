@@ -8,7 +8,7 @@
 
 Bom, eu sou o Izak 👋 mais todo mundo me chama de Zev. Sou Desenvolvedor Full Stack.
 
-Me interessei pela área de Tecnologia de Informação aos 15 anos com a linguagem Javascript com o passar do tempo me apaixonei pela linguagem. Hoje desenvolvo com Node Js, React JS e React Native.
+Me interessei pela área de desenvolvimento de Software aos 15 anos com a linguagem Javascript com o passar do tempo me apaixonei pela linguagem. Hoje desenvolvo com Node Js, React Js e React Native.
 
 #### :building_construction: Linguagens e ferramentas:
 
