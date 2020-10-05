@@ -6,9 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
 
-Bom, eu sou o Izak 👋 mais todo mundo me chama de Zev. Sou Desenvolvedor Full Stack.
-
-Me interessei pela área de desenvolvimento de Software aos 15 anos com a linguagem Javascript com o passar do tempo me apaixonei pela linguagem. Hoje desenvolvo com Node Js, React Js e React Native.
+Prazer Izak 👋, 17, mais pode me chamar de [Zev](https://github.com/zevdvlpr). Me interessei pela área de desenvolvimento de Software aos 15 anos com a linguagem Javascript com o passar do tempo me apaixonei pela linguagem. Hoje desenvolvo com Node Js, React Js e React Native.
 
 #### :building_construction: Linguagens e ferramentas:
 
