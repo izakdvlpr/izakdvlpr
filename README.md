@@ -1,4 +1,4 @@
-### Olá, eu sou o [Zev](https://github.com/zevdvlpr) 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Olá, eu sou o [Zev](https://github.com/zevdvlpr)
 ---
 
 [![Github Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://zevdvlpr.ml)](https://zevdvlpr.ml)
