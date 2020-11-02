@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
 
-Pleasure Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I became interested in the area of software development at the age of 15 with the Javascript language over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
+Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I became interested in the area of software development at the age of 15 with the Javascript language over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
 
 #### :building_construction: Languages and tools:
 
