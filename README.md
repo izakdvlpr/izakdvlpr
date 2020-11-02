@@ -11,14 +11,14 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I became inter
 
 #### :building_construction: Languages and tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/ios-filled/50/0080FF/html-5.png"/></>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/ios-filled/50/0080FF/css3.png"/></a>
-<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/ios-filled/50/0080FF/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://javascript.com/"><img src="https://img.icons8.com/ios-filled/50/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/50/0080FF/nodejs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/50/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/50/0080FF/visual-studio-logo.png"/></a>
-<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/50/0080FF/git.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/ios-filled/30/0080FF/html-5.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/ios-filled/35/0080FF/css3.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://javascript.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/0080FF/nodejs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/visual-studio-logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 #### :nerd_face: Some statistics:
 ![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)
