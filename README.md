@@ -15,9 +15,9 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I became inter
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/ios-glyphs/30/0080FF/css3.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://javascript.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/0080FF/node-js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://python.org/"><img src="https://img.icons8.com/metro/30/0080FF/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/visual-studio-logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
