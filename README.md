@@ -11,12 +11,12 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interest
 
 #### :building_construction: Languages and tools:
 
-<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://javascript.com/"><img src="https://img.icons8.com/ios-filled/30/0080FF/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/ios-glyphs/30/0080FF/html-5.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/ios-glyphs/30/0080FF/css3.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/0080FF/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/0080FF/node-js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/00d1f7/react-native.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
