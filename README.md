@@ -22,6 +22,7 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interest
 <a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
+<a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
 
 #### :nerd_face: Some statistics:
 ![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)
