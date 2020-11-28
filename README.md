@@ -16,6 +16,7 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interest
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/00d1f7/react-native.png"/></a>
+<a href="https://redux.js.org/"><img src="https://img.icons8.com/color/30/000000/redux.png"/></a>
 <a href="https://graphql.org/"><img src="https://img.icons8.com/color/30/000000/graphql.png"/></a>
 <a href="https://apollographql.com/"><img src="https://img.icons8.com/color/30/000000/apollo.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
