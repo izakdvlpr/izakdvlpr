@@ -21,6 +21,7 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interest
 <a href="https://apollographql.com/"><img src="https://img.icons8.com/color/30/000000/apollo.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a>
+<a href="https://elixir-lang.org/"><img src="https://icon-icons.com/icons2/2699/PNG/32/elixir_lang_logo_icon_169207.png" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
