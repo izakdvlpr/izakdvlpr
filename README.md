@@ -27,4 +27,5 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interest
 <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
 
 #### :nerd_face: Some statistics:
-![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)
+[![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)](https://github.com/zevdvlpr)
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevdvlpr&layout=compact&title_color=0080ff)](https://github.com/zevdvlpr)
