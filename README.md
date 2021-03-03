@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491)](https://discord.com/users/461273822360895491)
 
-Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
+Isaque, 18, but you can call me [Zev](https://github.com/zevdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
 
 #### :building_construction: Languages and tools:
 
@@ -29,4 +29,3 @@ Izak, 17, but you can call me [Zev](https://github.com/zevdvlpr). I was interest
 #### :nerd_face: Some statistics:
 [![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)](https://github.com/zevdvlpr)
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevdvlpr&layout=compact&title_color=0080ff)](https://github.com/zevdvlpr)
-[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=zevdvlpr)](https://github.com/zevdvlpr)
