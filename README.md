@@ -29,3 +29,4 @@ Isaque, 18, but you can call me [Zev](https://github.com/zevdvlpr). I was intere
 #### :nerd_face: Some statistics:
 [![my-data](https://github-readme-stats.vercel.app/api?username=zevdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)](https://github.com/zevdvlpr)
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevdvlpr&layout=compact&title_color=0080ff)](https://github.com/zevdvlpr)
+[![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=zevdvlpr)](https://github.com/zevdvlpr)
