@@ -1,4 +1,4 @@
-<img src="./github/zevdvlpr-github-banner.png">
+<img src="/.github/zevdvlpr-github-banner.png" width="100%">
 
 ### Hi, i'm [Zev](https://github.com/zevdvlpr) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ---
