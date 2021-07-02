@@ -1,12 +1,12 @@
 <img src="/.github/zevdvlpr-github-banner.png" width="100%">
 
-<div align="center">
+<p align="center">
   [![Github Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://zevdvlpr.ml)](https://zevdvlpr.ml)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0080FF?style=flat-square&labelColor=0080FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zevdvlpr/)](https://www.linkedin.com/in/zevdvlpr/)
   [![Website Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
   [![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491)](https://discord.com/users/461273822360895491)
-</div>
+</p>
 
 ---
 
