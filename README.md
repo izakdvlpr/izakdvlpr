@@ -1,13 +1,14 @@
 <img src="/.github/zevdvlpr-github-banner.png" width="100%">
 
-### Hi, i'm [Zev](https://github.com/zevdvlpr) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
----
+<div align="center">
+  [![Github Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://zevdvlpr.ml)](https://zevdvlpr.ml)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0080FF?style=flat-square&labelColor=0080FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zevdvlpr/)](https://www.linkedin.com/in/zevdvlpr/)
+  [![Website Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
+  [![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491)](https://discord.com/users/461273822360895491)
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://zevdvlpr.ml)](https://zevdvlpr.ml)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0080FF?style=flat-square&labelColor=0080FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zevdvlpr/)](https://www.linkedin.com/in/zevdvlpr/)
-[![Website Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/zevdvlpr)](https://github.com/zevdvlpr)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/zevdvlpr)](https://twitter.com/zevdvlpr)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491)](https://discord.com/users/461273822360895491)
+---
 
 Isaque, 18, but you can call me [Zev](https://github.com/zevdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
 
