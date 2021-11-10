@@ -1,4 +1,4 @@
-<div align="center">    
+<div>    
   <a href="https://izakdvlpr.ml"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://izakdvlpr.ml" alt="Github Badge" /></a>  
   <a href="https://www.linkedin.com/in/izakdvlpr/"><img src="https://img.shields.io/badge/-Linkedin-0080FF?style=flat-square&labelColor=0080FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/izakdvlpr/" alt="Linkedin Badge" /></a>  
   <a href="https://github.com/izakdvlpr"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/izakdvlpr" alt="Website Badge"/></a>  
