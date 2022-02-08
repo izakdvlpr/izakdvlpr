@@ -1,9 +1,9 @@
 <div>    
-  <a href="https://izakdvlpr.ml"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://izakdvlpr.ml" alt="Github Badge" /></a>  
-  <a href="https://www.linkedin.com/in/izakdvlpr/"><img src="https://img.shields.io/badge/-Linkedin-0080FF?style=flat-square&labelColor=0080FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/izakdvlpr/" alt="Linkedin Badge" /></a>  
-  <a href="https://github.com/izakdvlpr"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/izakdvlpr" alt="Website Badge"/></a>  
-  <a href="https://twitter.com/izakdvlpr"><img src="https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
-  <a href="https://discord.com/users/461273822360895491"><img src="https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
+  <a href="https://izakdvlpr.ml"><img src="https://img.shields.io/badge/-WebSite-000000?style=flat-square&labelColor=000000&logo=google-chrome&logoColor=white&link=https://izakdvlpr.ml" alt="Github Badge" /></a>  
+  <a href="https://www.linkedin.com/in/izakdvlpr/"><img src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&labelColor=000000&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/izakdvlpr/" alt="Linkedin Badge" /></a>  
+  <a href="https://github.com/izakdvlpr"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/izakdvlpr" alt="Website Badge"/></a>  
+  <a href="https://twitter.com/izakdvlpr"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
+  <a href="https://discord.com/users/461273822360895491"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
 </div>
 
 ---
@@ -29,5 +29,5 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 #### :nerd_face: Some statistics:
 
-[![my-data](https://github-readme-stats.vercel.app/api?username=izakdvlpr&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)](https://github.com/izakdvlpr)
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izakdvlpr&layout=compact&title_color=0080ff)](https://github.com/izakdvlpr)
+[![my-data](https://github-readme-stats.vercel.app/api?username=izakdvlpr&show_icons=true&title_color=000000&icon_color=000000&text_color=4F5159&bg_color=F3F3F3)](https://github.com/izakdvlpr)
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izakdvlpr&layout=compact&title_color=000000)](https://github.com/izakdvlpr)
