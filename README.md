@@ -12,6 +12,7 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 #### :building_construction: Languages and tools:
 
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
@@ -20,7 +21,6 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 <a href="https://redux.js.org/"><img src="https://img.icons8.com/color/30/000000/redux.png"/></a>
 <a href="https://graphql.org/"><img src="https://img.icons8.com/color/30/000000/graphql.png"/></a>
 <a href="https://apollographql.com/"><img src="https://img.icons8.com/color/30/000000/apollo.png"/></a>
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://elixir-lang.org/"><img src="https://icon-icons.com/icons2/2699/PNG/32/elixir_lang_logo_icon_169207.png" /></a>
 <a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
