@@ -1,11 +1,3 @@
-<div align="center">    
-  <a href="https://izakdvlpr.vercel.app"><img src="https://img.shields.io/badge/-WebSite-000000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://izakdvlpr.vercel.app" alt="Github Badge" /></a>  
-  <a href="https://www.linkedin.com/in/izakdvlpr/"><img src="https://img.shields.io/badge/- Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/izakdvlpr/" alt="Linkedin Badge" /></a>  
-  <a href="https://github.com/izakdvlpr"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/izakdvlpr" alt="Website Badge"/></a>  
-  <a href="https://twitter.com/izakdvlpr"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
-  <a href="https://discord.com/users/461273822360895491"><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
-</div>
-
 ## `$ whoami`
 
 Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
@@ -31,7 +23,7 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 **`frontend`**
 
 - [Next.js](https://nextjs.org/) will dominate the web for sure.
-- I love working with [TypeScript](https://typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https:/ /developer.mozilla.org/en-US/docs/web/CSS) on the web.
+- I love working with [TypeScript](https://typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/web/CSS) on the web.
 - When I use GraphQL in my projects, [Apollo](https://apollographql.com/) with [Redux](https://redux.js.org/) are great together.
 - Any web project I will host on [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
 
@@ -41,8 +33,14 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 #### `$ ls tools`
 
-- I use [Visual Studio Code](https://code.visualstudio.com/) to program in most of my projects with the exception of [Java](https://java.com/) and [Kotlin](https:/ /kotlinlang.org/) which I prefer to use [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+- I use [Visual Studio Code](https://code.visualstudio.com/) to program in most of my projects with the exception of [Java](https://java.com/) and [Kotlin](https://kotlinlang.org/) which I prefer to use [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 - I always generate some container with [Docker](https://docker.com/), either for database or upload projects.
 - I'm currently using [Ubuntu](https://ubuntu.com/) in version 20.4, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
 
 ## `$ find /contact/me`
+
+- You can send me an Email: [izakdvlpr@hitechline.com.br](mailto:izakdvlpr@hitechline.com.br)
+- Here is my Twitter [izakdvlpr](https://twitter.com/izakdvlpr).
+- My linkedin is [izakdvlpr](https://www.linkedin.com/in/izakdvlpr/).
+- What about Discord? [izak#4767](https://discord.gg/F8HmTMWV5z).
+- I have a [website](https://izakdvlpr.vercel.app/) where I'm going to start posting some stuff.
