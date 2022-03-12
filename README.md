@@ -14,10 +14,9 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 #### `$ ls languages`
 
-<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
-<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
-<a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a>
-<a href="https://java.com/"><img src="https://img.icons8.com/color/30/000000/java.png"/></a>
+- Every project of mine I will probably start with [TypeScript](https://typescriptlang.org/), because [JavaScript](https://javascript.com/) alone is too painful xD.
+- I just enjoy playing with [Python](https://python.org/) sometimes.
+- I am developing Minecraft plugins with [Kotlin](https://kotlinlang.org/) and [Java](https://java.com/).
 
 #### `$ ls frameworks`
 
@@ -46,7 +45,7 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 ## `$ find /contact/me`
 
-- 
+- E-mail >.<
 - 
 - 
 - 
