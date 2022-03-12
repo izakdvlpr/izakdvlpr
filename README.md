@@ -21,21 +21,21 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 #### `$ ls frameworks`
 
 **`backend`**
- 
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
-<a href="https://graphql.org/"><img src="https://img.icons8.com/color/30/000000/graphql.png"/></a>
-<a href=""><img src="https://img.icons8.com/fluency/30/000000/mysql-logo.png"/></a>
-<a href=""><img src="https://img.icons8.com/color/30/000000/postgreesql.png"/></a>
-<a href=""><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
-<a href=""><img src="https://img.icons8.com/color/30/000000/redis.png"/></a>
+
+- Without [Node.js](https://nodejs.org/en/) programming would be sad.
+- I love working with [GraphQL](https://graphql.org/) without a doubt.
+- Working with tables and typing [MySQL](https://mysql.com/) commands in a terminal is awesome.
+- For small projects I like to implement [MongoDB](https://mongodb.com/).
 
 **`frontend`**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
-<a href="https://reactjs.org/"><img src="https://img.icons8.com/ios-filled/30/00d1f7/react-native.png"/></a>
-<a href="https://redux.js.org/"><img src="https://img.icons8.com/color/30/000000/redux.png"/></a>
-<a href="https://apollographql.com/"><img src="https://img.icons8.com/color/30/000000/apollo.png"/></a>
+- [Next.js](https://nextjs.org/) will dominate the web for sure.
+- I love working with [TypeScript](https://typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https:/ /developer.mozilla.org/en-US/docs/web/CSS) on the web.
+- When I use GraphQL in my projects, [Apollo](https://apollographql.com/) with [Redux](https://redux.js.org/) are great together.
+
+**`mobile`**
+
+- In most projects I prefer to use [React Native](https://reactnative.dev/) already in smaller [Expo](https://expo.dev/).
 
 #### `$ ls tools`
 
@@ -44,8 +44,3 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
 
 ## `$ find /contact/me`
-
-- E-mail >.<
-- 
-- 
-- 
