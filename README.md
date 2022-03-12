@@ -10,7 +10,7 @@
 
 Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
 
-### `$ cd ~/technologies`
+## `$ cd ~/technologies`
 
 #### `$ ls languages`
 
@@ -25,6 +25,10 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
  
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://graphql.org/"><img src="https://img.icons8.com/color/30/000000/graphql.png"/></a>
+<a href=""><img src="https://img.icons8.com/fluency/30/000000/mysql-logo.png"/></a>
+<a href=""><img src="https://img.icons8.com/color/30/000000/postgreesql.png"/></a>
+<a href=""><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
+<a href=""><img src="https://img.icons8.com/color/30/000000/redis.png"/></a>
 
 **`frontend`**
 
@@ -40,7 +44,9 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
 
-#### :nerd_face: Some statistics:
+## `$ find /contact/me`
 
-[![my-data](https://github-readme-stats.vercel.app/api?username=izakdvlpr&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/izakdvlpr)
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izakdvlpr&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/izakdvlpr)
+- 
+- 
+- 
+- 
