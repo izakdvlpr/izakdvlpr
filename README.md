@@ -26,12 +26,14 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 - I love working with [GraphQL](https://graphql.org/) without a doubt.
 - Working with tables and typing [MySQL](https://mysql.com/) commands in a terminal is awesome.
 - For small projects I like to implement [MongoDB](https://mongodb.com/).
+- There's no way, without tests with [Jest](https://jestjs.io/) it's hard to program.
 
 **`frontend`**
 
 - [Next.js](https://nextjs.org/) will dominate the web for sure.
 - I love working with [TypeScript](https://typescriptlang.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https:/ /developer.mozilla.org/en-US/docs/web/CSS) on the web.
 - When I use GraphQL in my projects, [Apollo](https://apollographql.com/) with [Redux](https://redux.js.org/) are great together.
+- Any web project I will host on [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
 
 **`mobile`**
 
@@ -39,8 +41,8 @@ Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 #### `$ ls tools`
 
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
-<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
-<a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
+- I use [Visual Studio Code](https://code.visualstudio.com/) to program in most of my projects with the exception of [Java](https://java.com/) and [Kotlin](https:/ /kotlinlang.org/) which I prefer to use [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+- I always generate some container with [Docker](https://docker.com/), either for database or upload projects.
+- I'm currently using [Ubuntu](https://ubuntu.com/) in version 20.4, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
 
 ## `$ find /contact/me`
