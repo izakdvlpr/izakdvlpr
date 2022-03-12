@@ -41,7 +41,7 @@ Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 - I always generate some container with [Docker](https://docker.com/), either for database or upload projects.
 - I'm currently using [Ubuntu](https://ubuntu.com/) in version 20.4, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
 
-## `$ find /contact/me`
+## `$ find ~/contact/me`
 
 - You can send me an Email: [izakdvlpr@hitechline.com.br](mailto:izakdvlpr@hitechline.com.br)
 - Here is my Twitter [izakdvlpr](https://twitter.com/izakdvlpr).
