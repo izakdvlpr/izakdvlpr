@@ -1,6 +1,10 @@
 ## `$ whoami`
 
-Isaque, 18, but you can call me [Izak](https://github.com/izakdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
+Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was interested in the software development area at the age of 15 with the Javascript language, over time I fell in love with the language. Today I develop with Node Js, React Js, and React Native.
+
+## `$ cd ~/repos`
+
+- I am currently working as a developer at [Hitechline](https://hitechline.com.br).
 
 ## `$ cd ~/technologies`
 
