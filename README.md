@@ -44,7 +44,7 @@ Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 ## `$ find ~/contact/me`
 
 - You can send me an Email: [izakdvlpr@hitechline.com.br](mailto:izakdvlpr@hitechline.com.br)
-- Here is my Twitter [izakdvlpr](https://twitter.com/izakdvlpr).
-- My linkedin is [izakdvlpr](https://www.linkedin.com/in/izakdvlpr/).
-- What about Discord? [izak#4767](https://discord.gg/F8HmTMWV5z).
+- Here is my Twitter [izakdvlpr](https://twitter.com/izakdvlpr)
+- My linkedin is [izakdvlpr](https://www.linkedin.com/in/izakdvlpr/)
+- What about Discord? [izak#4767](https://discord.gg/F8HmTMWV5z)
 - I have a [website](https://izakdvlpr.vercel.app/) where I'm going to start posting some stuff.
