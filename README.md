@@ -12,7 +12,7 @@ Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 - Every project of mine I will probably start with [TypeScript](https://typescriptlang.org/), because [JavaScript](https://javascript.com/) alone is too painful xD.
 - I just enjoy playing with [Python](https://python.org/) sometimes.
-- I am developing Minecraft plugins with [Kotlin](https://kotlinlang.org/) and [Java](https://java.com/).
+- In my spare time I'm studying [Flutter](https://flutter.dev/) and developing plugins for minecraft with [Java](https://java.com/) and [Kotlin](https://kotlinlang.org/).
 
 #### `$ ls frameworks`
 
@@ -39,7 +39,7 @@ Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 - I use [Visual Studio Code](https://code.visualstudio.com/) to program in most of my projects with the exception of [Java](https://java.com/) and [Kotlin](https://kotlinlang.org/) which I prefer to use [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 - I always generate some container with [Docker](https://docker.com/), either for database or upload projects.
-- I'm currently using [Ubuntu](https://ubuntu.com/) in version 20.4, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
+- I'm currently using [Ubuntu](https://ubuntu.com/) in version 22.4, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
 
 ## `$ find ~/contact/me`
 
