@@ -39,7 +39,7 @@ Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 - I use [Visual Studio Code](https://code.visualstudio.com/) to program in most of my projects with the exception of [Java](https://java.com/) and [Kotlin](https://kotlinlang.org/) which I prefer to use [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 - I always generate some container with [Docker](https://docker.com/), either for database or upload projects.
-- I'm currently using [Ubuntu](https://ubuntu.com/) in version 22.4, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
+- I'm currently using [Ubuntu](https://ubuntu.com/) in version 22.04, but I intend to migrate to some distro based on [Arch Linux](https://archlinux.org/).
 
 ## `$ find ~/contact/me`
 
