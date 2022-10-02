@@ -43,7 +43,7 @@ Isaque, 19, but you can call me [Izak](https://github.com/izakdvlpr). I was inte
 
 ## `$ find ~/contact/me`
 
-- You can send me an Email: [izakdvlpr@hitechline.com.br](mailto:izakdvlpr@hitechline.com.br)
+- You can send me an Email: [hello@izak.tech](mailto:hello@izak.tech)
 - Here is my Twitter [izakdvlpr](https://twitter.com/izakdvlpr)
 - My linkedin is [izakdvlpr](https://www.linkedin.com/in/izakdvlpr/)
 - What about Discord? izak#0777
