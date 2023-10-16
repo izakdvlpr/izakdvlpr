@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=twitter&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Last.fm-000000?&style=for-the-badge&logo=lastdotfm&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Twitch-000000?&style=for-the-badge&logo=twitch&logoColor=ffffff">
 </p>
 
 ## <samp>About me</samp>
