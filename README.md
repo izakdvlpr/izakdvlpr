@@ -3,12 +3,12 @@
 <h6 align="center">Passionate about <kbd>programming</kbd>, <kbd>technology</kbd> and <kbd>pizza</kbd>.</h6>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=google-chrome&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=twitter&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=ffffff">
+  <a href="https://izakdvlpr.com"><img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
+  <a href="https://www.linkedin.com/in/izakdvlpr/"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+  <a href="https://github.com/izakdvlpr"><img src="https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ffffff"></a>
+  <a href="https://x.com/izakdvlpr"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
+  <a href="https://discord.com/users/461273822360895491"><img src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
+  <a href="https://open.spotify.com/user/ppwml35eobqppac0xxfuwztzc?si=84cea6bfef764cce"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
 </p>
 
 ## <samp>About me</samp>
