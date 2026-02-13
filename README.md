@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://izakdvlpr.com"><img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
   <a href="https://www.linkedin.com/in/izakdvlpr/"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
-  <a href="malito:izakdvlpr@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?&style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+  <a href="malito:contact@izakdvlpr.com"><img src="https://img.shields.io/badge/Mail-000000?&style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
   <a href="https://instagram.com/izakdvlpr"><img src="https://img.shields.io/badge/Instagram-000000?&style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
   <a href="https://x.com/izakdvlpr"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
   <a href="https://bsky.app/profile/izakdvlpr.bsky.social"><img src="https://img.shields.io/badge/Bluesky-000000?&style=for-the-badge&logo=bluesky&logoColor=ffffff"></a>
