@@ -14,6 +14,7 @@
   <a href="https://x.com/izakdvlpr"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
   <a href="https://bsky.app/profile/izakdvlpr.bsky.social"><img src="https://img.shields.io/badge/Bluesky-000000?&style=for-the-badge&logo=bluesky&logoColor=ffffff"></a>
   <br>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0008-2338-5974"><img src="https://img.shields.io/badge/ORCID-000000?&style=for-the-badge&logo=orcid&logoColor=ffffff"></a>
   <a href="https://discord.com/users/461273822360895491"><img src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
   <a href="https://open.spotify.com/user/ppwml35eobqppac0xxfuwztzc?si=84cea6bfef764cce"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
   <a href="https://www.last.fm/user/izakdvlpr"><img src="https://img.shields.io/badge/LastFM-000000?&style=for-the-badge&logo=lastdotfm&logoColor=ffffff"></a>
